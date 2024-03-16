@@ -17,3 +17,7 @@ void main() {
 void attack2() {
 
 }
+
+void attack() {
+
+}
